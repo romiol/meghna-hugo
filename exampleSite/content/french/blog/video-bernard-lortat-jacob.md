@@ -2,7 +2,6 @@
 author = "Romain Mascagni, Maho Sebiane"
 date = 2021-12-09T23:00:00Z
 description = ""
-draft = true
 image = "/images/blog/blj_book.jpg"
 image_webp = "/images/blj_book.webp"
 title = "VIDEO: Bernard Lortat-Jacob"
