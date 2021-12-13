@@ -1,18 +1,26 @@
 ---
-title: "Are You Doing the Right Way"
-date: 2018-09-12T14:51:12+06:00
-image_webp: images/blog/blog-post-2.webp
-image: images/blog/blog-post-2.jpg
-author: John Doe
-description : "This is meta description"
+title: 'VIDEO: Bernard Lortat-Jacob'
+date: 2022-01-01T09:51:12+00:00
+image_webp: "/images/blog/blj_book.jpg"
+image: "/images/blog/blj.jpg"
+author: Romain Mascagni, Maho Sebiane
+description: This is meta description
+
 ---
+Synthèse d'une vie de chercheur, d’enseignant et de musicien, le présent ouvrage de l’ethnomusicologue Bernard Lortat-Jacob offre une vision panoramique des musiques populaires des pays parcourus par l’auteur (Maroc, Sardaigne, Roumanie, Albanie) en même temps qu’une leçon magistrale de musicologie. De la même façon que, de tout temps, et sans l’aide de l’écriture, les sociétés humaines ont su édifier des systèmes politiques, échafauder des cosmogonies, penser des procédures juridiques, imaginer des techniques complexes, produire des merveilles d’art plastique, de façon analogue, ces mêmes sociétés font résonner des chefs-d’œuvre de la polyphonie vocale, le plus souvent ignorés de nos contemporains. _Petits pays_ (simples villages gouvernés par la tradition), _grandes musiques_ (sublimes chœurs d’hommes faisant vivre une improvisation toujours renouvelée), l’ouvrage de Bernard Lortat-Jacob introduit le lecteur dans l’intimité des cultures populaires, donnant à comprendre que, conformément à la formule de Gilbert Rouget, « la musique, c’est toujours beaucoup plus que la musique ».
 
-Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae. Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a.
+Sous la plume de Giovanni Giuriati, la préface retrace le parcours de l’auteur, « figure centrale de l’ethnomusicologie européenne », tandis que dans une postface/volte-face inédite, l’auteur lui-même explique le pourquoi et le comment de son évolution personnelle sur plus de trente ans.
 
-Sed porttitor lectus nibh. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Nulla porttitor accumsan tincidunt. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem. Quisque velit nisi, pretium ut lacinia in, elementum id enim.
+_L’ouvrage est complété par un ensemble de documents audio et vidéo, accessibles à partir du site: ethnomusicologie.fr/plateforme-bernard-lortat-jacob-petits-pays-grandes-musiques_
 
-> Design is not just what it looks like and feels like. Design is how it works.
+ Édition Première édition
 
-Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a.
+ Éditeur Publications de la Société d'ethnologie, Nanterre
 
-Sed porttitor lectus nibh. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Nulla porttitor accumsan tincidunt. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem. Quisque velit nisi, pretium ut lacinia in, elementum id enim.
+ Support Livre broché
+
+ Nb de pages 512 p.
+
+ISBN-10 2365190391
+
+ ISBN-13 9782365190398
