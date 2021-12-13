@@ -1,8 +1,8 @@
 ---
 title: 'VIDEO: Bernard Lortat-Jacob'
 date: 2022-01-01T09:51:12+00:00
-image_webp: "/images/blog/blj_book.jpg"
-image: "/images/blog/blj.jpg"
+image_webp: "/images/blj_book.webp"
+image: "/images/blog/blj_book.jpg"
 author: Romain Mascagni, Maho Sebiane
 description: This is meta description
 
